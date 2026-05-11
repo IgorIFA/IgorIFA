@@ -1,115 +1,100 @@
-# 👨🏼‍💻 Igor Fonseca
+<div align="center">
 
-**`Desenvolvedor FullStack`**
+<!-- Animated header banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=120&section=header&text=Igor%20Fonseca&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=65&desc=Full%20Stack%20Developer&descSize=18&descAlignY=85&descColor=8b949e" />
 
-Olá! 👋 Sou Igor Fonseca Amorim, desenvolvedor Full Stack apaixonado por tecnologia e por resolver problemas através da programação.
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Apaixonado+por+JavaScript;Node.js+%7C+AngularJS+%7C+MongoDB;Transformando+problemas+em+solu%C3%A7%C3%B5es+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-Atuo no desenvolvimento e manutenção de aplicações web, trabalhando tanto no front-end quanto no back-end, com foco no ecossistema JavaScript.
+<br/><br/>
 
-No meu dia a dia desenvolvo e evoluo sistemas utilizando tecnologias como Node.js, Express, AngularJS, MongoDB e JavaScript, participando da construção de APIs, implementação de interfaces e melhorias em sistemas já existentes.
+<!-- Social badges -->
+<a href="https://www.linkedin.com/in/dev-igor-fonseca-amorim/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:fonseca.igor0605@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-fonseca.igor0605@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
 
-Também tenho experiência com versionamento de código utilizando Git, revisão de alterações, manutenção de funcionalidades e evolução contínua de aplicações em produção.
-
-Minha jornada na tecnologia começou cedo, impulsionada pela curiosidade de entender como os sistemas funcionam. Esse interesse me levou a me formar como Técnico em Informática pelo SENAC, onde construí uma base sólida em infraestrutura, lógica de programação e desenvolvimento de sistemas.
-
-Sou movido por aprendizado contínuo, gosto de entender problemas complexos e transformá-los em soluções simples, eficientes e escaláveis.
-
-<p align="center">
-    <a href="https://www.linkedin.com/in/dev-igor-fonseca-amorim/">
-        <img 
-            alt="LinkedIn" 
-            title="Meu LinkedIn"
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white"
-        />
-    </a>
-</p>
+</div>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 👋 Sobre mim
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
+Olá! Sou **Igor Fonseca Amorim**, desenvolvedor **Full Stack** com foco no ecossistema JavaScript. Me apaixono por transformar problemas complexos em soluções simples, eficientes e escaláveis.
 
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
+- 🖥️ Atuo com desenvolvimento e manutenção de aplicações web, tanto no **front-end** quanto no **back-end**
+- 🛠️ No dia a dia trabalho com **Node.js**, **Express**, **AngularJS**, **MongoDB** e **JavaScript**
+- 🔗 Experiência com construção de **APIs REST**, implementação de interfaces e evolução de sistemas em produção
+- 🎓 Técnico em Informática pelo **SENAC** — base sólida em lógica de programação, infraestrutura e desenvolvimento de sistemas
+- 📚 Movido por **aprendizado contínuo** e sempre em busca de novas tecnologias
 
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+---
 
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
+## 🤖 Linguagens & Tecnologias
 
-<img 
-    align="left" 
-    alt="AngularJS" 
-    title="AngularJS"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" 
-/>
+<div align="center">
 
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
+### Front-end
+<img alt="HTML5" title="HTML5" width="48px" style="margin: 6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+<img alt="CSS3" title="CSS3" width="48px" style="margin: 6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+<img alt="JavaScript" title="JavaScript" width="48px" style="margin: 6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+<img alt="TypeScript" title="TypeScript" width="48px" style="margin: 6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
+<img alt="AngularJS" title="AngularJS" width="48px" style="margin: 6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg"/>
+<img alt="jQuery" title="jQuery" width="48px" style="margin: 6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg"/>
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+### Back-end & Banco de Dados
+<img alt="Node.js" title="Node.js" width="48px" style="margin: 6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
+<img alt="Express" title="Express" width="48px" style="margin: 6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"/>
+<img alt="MongoDB" title="MongoDB" width="48px" style="margin: 6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
 
-<br/>
-<br/>
+### Ferramentas
+<img alt="Git" title="Git" width="48px" style="margin: 6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+<img alt="GitHub" title="GitHub" width="48px" style="margin: 6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
+<img alt="VSCode" title="VS Code" width="48px" style="margin: 6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
 
-### 📊 Estatísticas
+</div>
 
-<p>
-    <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=IgorIFA&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-    />
+---
 
-    <img 
-        align="left" 
-        alt="GitHub Stats" 
-        height="200" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorIFA&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-    />
+## 📊 Estatísticas GitHub
 
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=IgorIFA&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IgorIFA&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&card_width=320" />
+</div>
+
+---
+
+## 🔥 Sequência de Contribuições
+
+<div align="center">
+  <img 
+    width="90%"
+    src="https://streak-stats.demolab.com?user=IgorIFA&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6e6e&currStreakLabel=58a6ff"
+  />
+</div>
+
+---
+
+## 📈 Gráfico de Contribuições
+
+<div align="center">
+  <img 
+    width="90%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=IgorIFA&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6e6e"
+  />
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=80&section=footer" />
+
+*"Transformando linhas de código em soluções que fazem a diferença"* 💙
+
+</div>
